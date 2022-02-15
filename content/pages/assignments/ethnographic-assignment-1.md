@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 title: 'Ethnographic Assignment 1: Diagram a Set of Social Relations (Kin-Based or
   Not)'

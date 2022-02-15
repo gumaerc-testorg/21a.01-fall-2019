@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 title: 'Ethnographic Assignment 3: Define Personhood'
 uid: 1ae9fc3a-50f4-5cc2-e139-dcb1c9a4a988
