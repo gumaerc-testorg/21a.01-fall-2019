@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 resourcetype: Document
 title: '21A.01_F19 Assignments_EthnographicAssignments3: Personhood Essay'
 uid: df37bd26-eeec-921b-d107-21f7b8fd81b1

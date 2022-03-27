@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 resourcetype: Document
 title: '21A.01_F19 Assignments_EthnographicAssignments2: Eggs'
 uid: 64be3886-81f0-8f5e-cbc5-c38ae8fb560c
