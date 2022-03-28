@@ -28,4 +28,4 @@ Good luck!
 
 _Student Example_
 
-["The Family Line System of Theta Xi" (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21a_01f19_assignment1_ex1)
+{{< resource_link 32bf8db3-5d38-dc04-97b7-c1a271c5efc1 "\"The Family Line System of Theta Xi\" (PDF - 1.5MB)" >}}

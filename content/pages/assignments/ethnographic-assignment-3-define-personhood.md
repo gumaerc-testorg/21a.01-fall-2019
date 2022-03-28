@@ -30,6 +30,6 @@ How do persons relate to each other, and how do non-persons mediate these relati
 
 _Student Examples_
 
-["What is a Person but a Resume?" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment3_ex1)
+{{< resource_link 4d01aca6-a032-ec29-864d-72f03027be8d "\"What is a Person but a Resume?\" (PDF)" >}}
 
-["Personhood Essay" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment3_ex2)
+{{< resource_link df37bd26-eeec-921b-d107-21f7b8fd81b1 "\"Personhood Essay\" (PDF)" >}}

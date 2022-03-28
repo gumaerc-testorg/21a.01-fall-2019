@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 52f85e6b-3136-df4c-fbcb-bf0d58cb8761
 ---
@@ -140,7 +141,7 @@ Final paper
 
 {{< tableclose >}}
 
-For further detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, see the {{< resource_link 547c48a4-6a23-8c45-abbd-69efcc0fb43f "Assignments" >}} section.
 
 Readings
 --------
@@ -149,7 +150,7 @@ Malinowski, Bronislaw. _[Argonauts of the Western Pacific: An Account of Native 
 
 Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](https://books.google.com/books?id=noaQB6Pb8LAC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Additional readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings can be found in the {{< resource_link f465098a-5ffe-e131-e88d-7a17ba75557d "Readings" >}} section.
 
 Citations
 ---------

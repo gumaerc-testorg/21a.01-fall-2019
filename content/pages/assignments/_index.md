@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 ---
@@ -14,11 +15,11 @@ Three ethnographic projects constitute 30% of your grade (10% each). These proje
 
 This assignment is tailored to each of the class's first three sections: family, things, and agents and persons. It requires you to gather data about some aspect of our Bostonian life through ethnographic participant-observation and to analyze this data according to the assigned guidelines, _drawing on one or more of the texts assigned for that sectio__n_. You are advised, therefore, to start thinking about the project early on in each section, but to finish writing it after we have covered some of the readings. Because anthropology (and academic work generally) is a social activity, because thought happens in conversation and good ideas are collectively generated, part of this assignment also requires you to present your completed project in class and participate in the workshopping and critique of your classmates' projects.
 
-[Ethnographic Assignment 1: Diagram a Set of Social Relations (Kin-Based or Not)]({{< baseurl >}}/pages/assignments/ethnographic-assignment-1)
+{{< resource_link 63b75476-0319-595e-e33e-55ec81fb055f "Ethnographic Assignment 1: Diagram a Set of Social Relations (Kin-Based or Not)" >}}
 
-[Ethnographic Assignment 2: Describe a Transaction]({{< baseurl >}}/pages/assignments/ethnographic-assignment-2)
+{{< resource_link 80654b83-be58-8605-bb44-8fe01da09d00 "Ethnographic Assignment 2: Describe a Transaction" >}}
 
-[Ethnographic Assignment 3: Define Personhood]({{< baseurl >}}/pages/assignments/ethnographic-assignment-3-define-personhood)
+{{< resource_link 1ae9fc3a-50f4-5cc2-e139-dcb1c9a4a988 "Ethnographic Assignment 3: Define Personhood" >}}
 
 Reading Response Essays
 -----------------------
@@ -42,6 +43,6 @@ Use two (2) texts from our syllabus to explain how culture works.
 
 _Student Example_
 
-["How Does Culture Work?" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_finalpaper1_ex1)
+{{< resource_link 73622e2b-bc1c-166c-327c-6fa29d825efe "\"How Does Culture Work?\" (PDF)" >}}
 
 Note: All examples in the Assignments section appear courtesy of MIT students and are anonymous by request.
