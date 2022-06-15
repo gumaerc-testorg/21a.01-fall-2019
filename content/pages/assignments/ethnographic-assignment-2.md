@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,6 +27,6 @@ And pay attention to time. What time frame—or time frames—does the transacti
 
 _Student Examples_
 
-{{< resource_link 64be3886-81f0-8f5e-cbc5-c38ae8fb560c "\"Eggs\" (PDF)" >}}
+{{% resource_link 64be3886-81f0-8f5e-cbc5-c38ae8fb560c "\"Eggs\" (PDF)" %}}
 
-{{< resource_link 7c9c5015-417a-5a67-3338-488e3fab2217 "\"Venmo Transactions\" (PDF)" >}}
+{{% resource_link 7c9c5015-417a-5a67-3338-488e3fab2217 "\"Venmo Transactions\" (PDF)" %}}

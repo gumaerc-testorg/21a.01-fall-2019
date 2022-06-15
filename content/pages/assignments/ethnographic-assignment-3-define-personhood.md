@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,6 +31,6 @@ How do persons relate to each other, and how do non-persons mediate these relati
 
 _Student Examples_
 
-{{< resource_link 4d01aca6-a032-ec29-864d-72f03027be8d "\"What is a Person but a Resume?\" (PDF)" >}}
+{{% resource_link 4d01aca6-a032-ec29-864d-72f03027be8d "\"What is a Person but a Resume?\" (PDF)" %}}
 
-{{< resource_link df37bd26-eeec-921b-d107-21f7b8fd81b1 "\"Personhood Essay\" (PDF)" >}}
+{{% resource_link df37bd26-eeec-921b-d107-21f7b8fd81b1 "\"Personhood Essay\" (PDF)" %}}
