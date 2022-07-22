@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 title: 'Ethnographic Assignment 2: Describe a Transaction'
 uid: 80654b83-be58-8605-bb44-8fe01da09d00
@@ -22,6 +27,6 @@ And pay attention to time. What time frame—or time frames—does the transacti
 
 _Student Examples_
 
-["Eggs" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment2_ex1)
+{{% resource_link 64be3886-81f0-8f5e-cbc5-c38ae8fb560c "\"Eggs\" (PDF)" %}}
 
-["Venmo Transactions" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment2_ex2)
+{{% resource_link 7c9c5015-417a-5a67-3338-488e3fab2217 "\"Venmo Transactions\" (PDF)" %}}

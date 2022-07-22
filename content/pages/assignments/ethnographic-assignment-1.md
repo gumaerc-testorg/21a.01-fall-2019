@@ -1,13 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 title: 'Ethnographic Assignment 1: Diagram a Set of Social Relations (Kin-Based or
   Not)'
 uid: 63b75476-0319-595e-e33e-55ec81fb055f
 ---
 
-Inspired by Malinowski's diagram of Kula (see page 82 of _[Argonauts of the Western Paciflc](https://archive.org/details/argonautsofthewe032976mbp/page/n135/mode/2up)_), and by Parsons' diagram of mid-century middle-class American families (see page 23 of the article ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Kinship System of the Contemporary United States" (PDF - 2MB)](http://www.suz.uzh.ch/dam/jcr:00000000-5971-7075-0000-000008238573/Parsons_kinship.pdf), _American Anthropologist_ 45, no. 1 (1943): 22–30), this assignment asks you to diagram a set of social relations. The relations may be kin-based or not, but they do need to be established enough to constitute a chartable social unit. Something like grocery store transactions probably won't yield a very interesting diagram (…unless you notice the same people coming back and forming social ties in and through that grocery store).
+Inspired by Malinowski's diagram of Kula (see page 82 of _[Argonauts of the Western Paciflc](https://archive.org/details/argonautsofthewe032976mbp/page/n135/mode/2up)_), and by Parsons' diagram of mid-century middle-class American families (see page 23 of the article ["The Kinship System of the Contemporary United States" (PDF - 2MB)](http://www.suz.uzh.ch/dam/jcr:00000000-5971-7075-0000-000008238573/Parsons_kinship.pdf), _American Anthropologist_ 45, no. 1 (1943): 22–30), this assignment asks you to diagram a set of social relations. The relations may be kin-based or not, but they do need to be established enough to constitute a chartable social unit. Something like grocery store transactions probably won't yield a very interesting diagram (…unless you notice the same people coming back and forming social ties in and through that grocery store).
 
 To go about this, you will need to:
 
@@ -24,4 +29,4 @@ Good luck!
 
 _Student Example_
 
-["The Family Line System of Theta Xi" (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21a_01f19_assignment1_ex1)
+{{% resource_link 32bf8db3-5d38-dc04-97b7-c1a271c5efc1 "\"The Family Line System of Theta Xi\" (PDF - 1.5MB)" %}}

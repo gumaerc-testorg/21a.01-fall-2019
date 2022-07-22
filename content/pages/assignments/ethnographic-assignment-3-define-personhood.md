@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
 title: 'Ethnographic Assignment 3: Define Personhood'
 uid: 1ae9fc3a-50f4-5cc2-e139-dcb1c9a4a988
@@ -26,6 +31,6 @@ How do persons relate to each other, and how do non-persons mediate these relati
 
 _Student Examples_
 
-["What is a Person but a Resume?" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment3_ex1)
+{{% resource_link 4d01aca6-a032-ec29-864d-72f03027be8d "\"What is a Person but a Resume?\" (PDF)" %}}
 
-["Personhood Essay" (PDF)]({{< baseurl >}}/resources/mit21a_01f19_assignment3_ex2)
+{{% resource_link df37bd26-eeec-921b-d107-21f7b8fd81b1 "\"Personhood Essay\" (PDF)" %}}
