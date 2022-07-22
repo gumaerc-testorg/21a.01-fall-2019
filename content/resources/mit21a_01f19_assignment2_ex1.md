@@ -5,6 +5,7 @@ file: /courses/21a-01-how-culture-works-fall-2019/64be388681f08f5ecbc5c38ae8fb56
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
