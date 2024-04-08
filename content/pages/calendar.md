@@ -190,7 +190,7 @@ The Family (VII)
 
 _Screening_
 
-_“_[Exit Zero: An Industrial Family Story](https://www.youtube.com/watch?v=WyK5PBLPn0I).” YouTube.
+_“_{{% resource_link "74a50a2a-b1f8-4e2a-9a02-32dc130598d9" "Exit Zero: An Industrial Family Story" %}}.” YouTube.
 
 
 {{< tdclose >}}
@@ -332,7 +332,7 @@ Things (Creation and Circulation) (IV)
 
 _Screening_
 
-“[Tabu: A Story of the South Seas](https://www.youtube.com/watch?v=yPP7fWVMptg).” YouTube.
+“{{% resource_link "d6f4d4a0-8f3f-4998-8c35-ffb2545d10d6" "Tabu: A Story of the South Seas" %}}.” YouTube.
 
 
 {{< tdclose >}}
@@ -614,7 +614,7 @@ Ethnography, Ethnographers, and How to Study “Culture” (V)
 
 _Screening_
 
-“[Bush Mechanics, Ep. 1: Motorcar Ngutju](https://www.youtube.com/watch?v=IIcmsjT73Yk).” YouTube.
+“{{% resource_link "0914bb20-ec16-4745-98c1-f8eaa7c53aba" "Bush Mechanics, Ep. 1: Motorcar Ngutju" %}}.” YouTube.
 
 
 {{< tdclose >}}
