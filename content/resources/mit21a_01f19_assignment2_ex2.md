@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21a-01-how-culture-works-fall-2019/7c9c5015417a5a673338488e3fab2217_MIT21A_01F19_Assignment2_Ex2.pdf
+file_size: 297925
 file_type: application/pdf
 learning_resource_types:
 - Assignments
