@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21a-01-how-culture-works-fall-2019/4d01aca6a032ec29864d72f03027be8d_MIT21A_01F19_Assignment3_Ex1.pdf
+file: /courses/21a-01-how-culture-works-fall-2019/4d01aca6a032ec29864d72f03027be8d_MIT21A_01F19_Assignment3_Ex1.pdf
 file_size: 53720
 file_type: application/pdf
 learning_resource_types:
