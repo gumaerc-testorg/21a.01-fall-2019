@@ -146,13 +146,13 @@ For further detail, see the {{% resource_link 547c48a4-6a23-8c45-abbd-69efcc0fb4
 Readings
 --------
 
-Malinowski, Bronislaw. _[Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea](https://archive.org/details/argonautsofthewe032976mbp/mode/2up)_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with [Google Books](https://books.google.com/books?id=OAhgAwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+Malinowski, Bronislaw. _{{% resource_link "5081c8c4-6541-4a02-b015-342eee2b5bd7" "Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea" %}}_. Waveland Press Inc., 1984. ISBN: 9780881330847. \[Preview with {{% resource_link "3bc0edc3-81d6-44d0-8e00-402dd65bbd26" "Google Books" %}}\]
 
-Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with [Google Books](https://books.google.com/books?id=noaQB6Pb8LAC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Walley, Christine J. _Exit Zero: Family and Class in Postindustrial Chicago_. University of Chicago Press, 2013. ISBN: 9780226871806. \[Preview with {{% resource_link "858a3d10-b825-4680-a021-99fd44739f14" "Google Books" %}}\]
 
 Additional readings can be found in the {{% resource_link f465098a-5ffe-e131-e88d-7a17ba75557d "Readings" %}} section.
 
 Citations
 ---------
 
-Plagiarism is a serious offense. It's also wrong. If your text repeats part of another text verbatim, use quotation marks and include the source in parentheses (author's last name, year: page number). If your text paraphrases another, include the source from which you've borrowed ideas in parentheses (author's last name, year). For more information on citation formats, check out the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html).
+Plagiarism is a serious offense. It's also wrong. If your text repeats part of another text verbatim, use quotation marks and include the source in parentheses (author's last name, year: page number). If your text paraphrases another, include the source from which you've borrowed ideas in parentheses (author's last name, year). For more information on citation formats, check out the {{% resource_link "67be82ee-ad89-438b-b8a0-61f20ce72926" "Chicago Manual of Style" %}}.
